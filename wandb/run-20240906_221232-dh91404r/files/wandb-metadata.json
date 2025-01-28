@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-09-07T02:12:33.711247",
+    "startedAt": "2024-09-07T02:12:32.286232",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\Carnegie\\Fall_2024\\Gen_AI\\hw0\\handout\\wandb_try.py",
+    "codePathLocal": "handout\\wandb_try.py",
+    "codePath": "handout\\wandb_try.py",
+    "host": "DESKTOP-FSC7M4G",
+    "username": "DELL",
+    "executable": "D:\\Anaconda\\envs\\genai_venv\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 136.71776962280273,
+            "used": 19.884567260742188
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.781013488769531
+    }
+}

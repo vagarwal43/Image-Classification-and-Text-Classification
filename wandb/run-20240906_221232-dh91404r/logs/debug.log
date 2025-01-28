@@ -1,0 +1,26 @@
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Current SDK version is 0.17.9
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Configure stats pid to 10316
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Loading settings from C:\Users\DELL\.config\wandb\settings
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Loading settings from D:\Carnegie\Fall_2024\Gen_AI\hw0\wandb\settings
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'handout\\wandb_try.py', 'program_abspath': 'D:\\Carnegie\\Fall_2024\\Gen_AI\\hw0\\handout\\wandb_try.py', 'program': 'D:\\Carnegie\\Fall_2024\\Gen_AI\\hw0\\handout\\wandb_try.py'}
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_init.py:_log_setup():524] Logging user logs to D:\Carnegie\Fall_2024\Gen_AI\hw0\wandb\run-20240906_221232-dh91404r\logs\debug.log
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_init.py:_log_setup():525] Logging internal logs to D:\Carnegie\Fall_2024\Gen_AI\hw0\wandb\run-20240906_221232-dh91404r\logs\debug-internal.log
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_init.py:init():608] calling init triggers
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_init.py:init():615] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.01, 'epochs': 10}
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_init.py:init():658] starting backend
+2024-09-06 22:12:32,298 INFO    MainThread:10316 [wandb_init.py:init():662] setting up manager
+2024-09-06 22:12:32,301 INFO    MainThread:10316 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-09-06 22:12:32,301 INFO    MainThread:10316 [wandb_init.py:init():670] backend started and connected
+2024-09-06 22:12:32,301 INFO    MainThread:10316 [wandb_init.py:init():768] updated telemetry
+2024-09-06 22:12:32,301 INFO    MainThread:10316 [wandb_init.py:init():801] communicating run to backend with 90.0 second timeout
+2024-09-06 22:12:32,657 INFO    MainThread:10316 [wandb_init.py:init():852] starting run threads in backend
+2024-09-06 22:12:35,824 INFO    MainThread:10316 [wandb_run.py:_console_start():2465] atexit reg
+2024-09-06 22:12:35,824 INFO    MainThread:10316 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-09-06 22:12:35,824 INFO    MainThread:10316 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-09-06 22:12:35,824 INFO    MainThread:10316 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-09-06 22:12:35,829 INFO    MainThread:10316 [wandb_init.py:init():895] run started, returning control to user process
+2024-09-06 22:12:40,605 WARNING MsgRouterThr:10316 [router.py:message_loop():77] message_loop has been closed
